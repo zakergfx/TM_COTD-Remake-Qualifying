@@ -1,0 +1,9 @@
+[meta]
+name = "COTD Remake Qualifying"
+author = "ZaKeRMPH"
+category = "Race"
+version = "0.9"
+
+[script]
+dependencies = [ "NadeoServices" ]
+

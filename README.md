@@ -9,4 +9,4 @@ While playing a Track of the day, this plugin shows the rank you would have had 
 ## Other information
 - Written in AngelScript
 - Downloaded 3500 times
-- Available here ["Open planet link"](https://openplanet.dev/plugin/cotdremakequalifying)
+- Available here [OpenPlanet link](https://openplanet.dev/plugin/cotdremakequalifying)
